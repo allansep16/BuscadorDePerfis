@@ -49,4 +49,4 @@ Um projeto simples desenvolvido com HTML, CSS e JavaScript puro para buscar e ex
  
 
 
-[![GitHub](https://github.com/allansep16)
+
