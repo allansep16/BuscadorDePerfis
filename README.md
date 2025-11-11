@@ -6,7 +6,7 @@ Um projeto simples desenvolvido com HTML, CSS e JavaScript puro para buscar e ex
 
  
 
-![Prévia do Projeto](https://i.imgur.com/link-da-sua-imagem.png)  
+
 
 *(Instrução: Tire um print da sua aplicação funcionando e substitua o link acima. Sites como [Imgur](https://imgur.com/) podem ser usados para hospedar a imagem.)*
 
